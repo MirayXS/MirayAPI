@@ -23,6 +23,7 @@
 
 > `/sp2/weapons`
 >> `/sp2/modes`
+>>> `sp2/stages`
 <hr>
 
 > LICENSE: MIT
