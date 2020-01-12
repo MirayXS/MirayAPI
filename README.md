@@ -17,3 +17,4 @@
 
 
 > LICENSE: MIT
+>> We don't offer for support on this API.
