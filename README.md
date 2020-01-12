@@ -2,7 +2,7 @@
 
 ### The API for Mirayyh Discord Bot.
 
-### Base: `https://mirayxs.github.io/MirayAPI/`
+### Base: `https://mirayxs.github.io/MirayAPI`
 
 ## Endpoints
 
