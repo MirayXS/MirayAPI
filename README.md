@@ -14,3 +14,6 @@
 >>>> `/mk8d/delta`
 >>>>> `/mk8d/moto`
 >>>>>> `/mk8d/course`
+
+
+> LICENSE: MIT
