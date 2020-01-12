@@ -22,6 +22,7 @@
 
 
 > `/sp2/weapons`
+>> `/sp2/modes`
 <hr>
 
 > LICENSE: MIT
