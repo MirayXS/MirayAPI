@@ -26,3 +26,5 @@
 
 > LICENSE: MIT
 >> We don't offer support for this API.
+
+`© Miray Development 2020.`
