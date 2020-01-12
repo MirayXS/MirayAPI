@@ -15,12 +15,14 @@
 >>>>> `/mk8d/moto`
 >>>>>> `/mk8d/course`
 
+<hr>
+
 ### Splatoon 2
 
 
 
 > `/sp2/weapons`
-
+<hr>
 
 > LICENSE: MIT
->> We don't offer for support on this API.
+>> We don't offer support for this API.
