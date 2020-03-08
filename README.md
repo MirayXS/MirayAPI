@@ -5,6 +5,7 @@
 ~ Splatoon   :: leanny.github.io
 ~ Faces      :: generated.photos
 ~ Mario Kart :: mariokart8.nintendo.com
+~ CoverSeaS  :: cover5ea5.herokuapp.com
 ```
 <hr>
 
