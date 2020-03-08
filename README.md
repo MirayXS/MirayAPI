@@ -14,5 +14,3 @@
 | Pokkén        | 1.1           | battle pack wave 1, 2  |
 | Splatoon      | 4.5.0         | Octo Expansion         |
 | Mario Kart 8   | 1.7.1         | ❌                    |
-
-<pre class="text-small text-gray">[12/01/20] MirayAPI is released!</pre>
