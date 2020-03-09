@@ -6,6 +6,7 @@
 ~ Faces      :: generated.photos
 ~ Mario Kart :: mariokart8.nintendo.com
 ~ CoverSeaS  :: cover5ea5.herokuapp.com
+~ Sp2 Artwork:: cover5ea5.herokuapp.com
 ```
 <hr>
 
