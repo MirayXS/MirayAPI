@@ -1,4 +1,4 @@
-<img width="210" height="210" align="left" alt="Miray" src="https://cdn.discordapp.com/icons/444248102417727488/fbdf929835cd1c6e0b61348606810f0b.webp?size=2048" data-canonical-src="https://cdn.discordapp.com/icons/444248102417727488/fbdf929835cd1c6e0b61348606810f0b.webp?size=2048" style="max-width:100%;"><h1>MirayAPI <img src="https://img.shields.io/github/repo-size/MirayXS/MirayAPI?color=7289da&label=Repository&logo=github&style=flat-square"></h1>
+<img width="210" height="210" align="left" alt="Miray" src="https://cdn.discordapp.com/icons/444248102417727488/fbdf929835cd1c6e0b61348606810f0b.webp?size=2048" style="max-width:100%;"><h1>MirayAPI <img src="https://img.shields.io/github/repo-size/MirayXS/MirayAPI?color=7289da&label=Repository&logo=github&style=flat-square"></h1>
 ```bash 
 ~ Pokkén     :: pokkentournament.com
 ~ Pokémon    :: pokemon.com
