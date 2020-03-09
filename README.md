@@ -17,6 +17,6 @@
 <hr>
 
 ```bash 
-~ CoverSeaS   :: roxyserver.herokuapp.com
-~ Sp2 Artwork :: roxyserver.herokuapp.com/001.html
+~ CoverSeaS   :: nitroz.herokuapp.com
+~ Sp2 Artwork :: nitroz.herokuapp.com/001.html
 ```
