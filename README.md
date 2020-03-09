@@ -15,8 +15,3 @@
 | Mario Kart 8  | 1.7.1        | ❌                     | 
 
 <hr>
-
-```bash 
-~ CoverSeaS   :: nitroz.herokuapp.com
-~ Sp2 Artwork :: nitroz.herokuapp.com/001.html
-```
