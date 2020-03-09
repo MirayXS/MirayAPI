@@ -17,7 +17,6 @@
 <hr>
 
 ```bash 
-"Other Data"
 ~ CoverSeaS   :: cover5ea5.herokuapp.com
 ~ Sp2 Artwork :: cover5ea5.herokuapp.com
 ```
