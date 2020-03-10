@@ -5,6 +5,7 @@
 ~ Splatoon   :: leanny.github.io
 ~ Faces      :: generated.photos
 ~ Mario Kart :: mariokart8.nintendo.com
+~ Fortnite   :: Epic Games, Inc.
 ```
 <hr>
 
