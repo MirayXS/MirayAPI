@@ -8,6 +8,7 @@
 ~ Fortnite   :: Epic Games, Inc.
 ~ Item Shop  :: git.io/Jv60J
 ```
+
 <hr>
 
 | Name          | Version       | Extra                  |
@@ -16,4 +17,5 @@
 | Splatoon      | 4.5.0         | Octo Expansion         |
 | Mario Kart 8  | 1.7.1         | ❌                    | 
 | Fortnite      | 12.10         | Leaks                  |
+
 <hr>
