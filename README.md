@@ -6,7 +6,6 @@
 ~ Faces      :: generated.photos
 ~ Mario Kart :: mariokart8.nintendo.com
 ~ Fortnite   :: Epic Games, Inc.
-~ Item Shop  :: git.io/Jv60J 
 ```
 
 <hr>
